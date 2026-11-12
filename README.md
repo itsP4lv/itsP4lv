@@ -48,4 +48,21 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge" alt="Codex"/>
 
+
+### 🛡️ Pentest
+
+<br/>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge" alt="Nmap"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ESP32%20Marauder-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Marauder"/>
+
 </div>
