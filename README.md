@@ -1,4 +1,4 @@
-# Plouvi
+# ⚡ P4lv
 
 🤖 Je construis des **agents IA** et des automatisations qui servent vraiment : devis, factures, SEO  
 🛡️ Je me forme à la **cybersécurité**, en grande partie par moi-même  
@@ -13,7 +13,7 @@
 
 ## 🧠 À propos de moi
 
-J’apprends en construisant : quand un sujet m’intéresse, je monte un vrai projet pour le comprendre, de l’**agent IA** à l’**outil de pentest**.  
+J’apprends en construisant : quand un sujet m’intéresse, je monte un vrai projet pour le comprendre, de l’**agent IA** à l’**outil de pentest sur ESP32**.  
 J’aime comprendre comment les systèmes fonctionnent, et comment on les sécurise.
 
 - 🔍 Curieux et autodidacte  
@@ -123,6 +123,14 @@ J’aime comprendre comment les systèmes fonctionnent, et comment on les sécur
 <a href="https://tryhackme.com/p/plouviof"><img src="https://img.shields.io/badge/TryHackMe-plouviof-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Profil TryHackMe"/></a>
 &nbsp;&nbsp;
 <a href="https://www.root-me.org/plouvi-985094?lang=fr"><img src="https://img.shields.io/badge/Root--Me-plouvi-0d1117?style=for-the-badge&logo=rootme&logoColor=white" alt="Profil Root-Me"/></a>
+
+
+### 🔐 Cryptographie
+
+<br/>
+
+🔑 Chiffrement **symétrique (AES-256)** et **asymétrique**  
+🐍 Génération de clés en **Python** pour chiffrer des mots de passe et des messages
 
 
 ### 📈 Référencement SEO
