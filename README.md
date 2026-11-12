@@ -48,6 +48,8 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge" alt="Codex"/>
 
+🔗 Création d’**agents IA** et de **workflows LLM**
+
 
 ### 🛡️ Pentest
 
@@ -64,5 +66,19 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ESP32%20Marauder-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Marauder"/>
+
+🔍 **Audit de sécurité** — niveau débutant
+
+
+### 📈 Référencement SEO
+
+<br/>
+
+<img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Google Search Console"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="Google Tag Manager"/>
+
+📝 Optimisation des **meta descriptions**  
+🧭 Détection et correction de la **cannibalisation de mots-clés**
 
 </div>
