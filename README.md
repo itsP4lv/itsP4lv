@@ -93,6 +93,14 @@ J’aime comprendre comment les systèmes fonctionnent, et comment on les sécur
       <img src="https://img.shields.io/badge/Burp%20Suite-1a1b27?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite"/>
       <img src="https://img.shields.io/badge/Metasploit-1a1b27?style=for-the-badge&logo=metasploit&logoColor=2596CD" alt="Metasploit"/>
       <img src="https://img.shields.io/badge/ESP32%20Marauder-1a1b27?style=for-the-badge&logo=espressif&logoColor=E7352C" alt="ESP32 Marauder"/>
+      <img src="https://img.shields.io/badge/John%20the%20Ripper-1a1b27?style=for-the-badge" alt="John the Ripper"/>
+      <img src="https://img.shields.io/badge/Hashcat-1a1b27?style=for-the-badge&logo=hashcat&logoColor=white" alt="Hashcat"/>
+      <img src="https://img.shields.io/badge/Hydra-1a1b27?style=for-the-badge" alt="Hydra"/>
+      <img src="https://img.shields.io/badge/Aircrack--ng-1a1b27?style=for-the-badge" alt="Aircrack-ng"/>
+      <img src="https://img.shields.io/badge/sqlmap-1a1b27?style=for-the-badge" alt="sqlmap"/>
+      <img src="https://img.shields.io/badge/Gobuster-1a1b27?style=for-the-badge" alt="Gobuster"/>
+      <img src="https://img.shields.io/badge/Nikto-1a1b27?style=for-the-badge" alt="Nikto"/>
+      <img src="https://img.shields.io/badge/Netcat-1a1b27?style=for-the-badge" alt="Netcat"/>
       <br/><sub>🔍 Audit de sécurité — niveau débutant</sub>
     </td>
   </tr>
