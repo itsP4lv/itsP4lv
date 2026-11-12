@@ -1,4 +1,4 @@
-# ⚡ P4lv
+# Plouvi
 
 🤖 Je construis des **agents IA** et des automatisations qui servent vraiment : devis, factures, SEO  
 🛡️ Je me forme à la **cybersécurité**, en grande partie par moi-même  
@@ -13,8 +13,8 @@
 
 ## 🧠 À propos de moi
 
-Je suis un développeur motivé avec une solide expérience aussi bien **frontend**, **backend** que **scripting de jeux**.  
-Je m’intéresse autant à l’architecture propre qu’aux détails qui font la différence.
+J’apprends en construisant : quand un sujet m’intéresse, je monte un vrai projet pour le comprendre, de l’**agent IA** à l’**outil de pentest sur ESP32**.  
+J’aime comprendre comment les systèmes fonctionnent, et comment on les sécurise.
 
 - 🔍 Curieux et autodidacte  
 - 🛠️ Axé performance & qualité  
