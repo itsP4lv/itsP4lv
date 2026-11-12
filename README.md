@@ -130,7 +130,9 @@ J’aime comprendre comment les systèmes fonctionnent, et comment on les sécur
 <br/>
 
 🔑 Chiffrement **symétrique (AES-256)** et **asymétrique**  
-🐍 Génération de clés en **Python** pour chiffrer des mots de passe et des messages
+🐍 Génération de clés en **Python** pour chiffrer des mots de passe et des messages  
+🧂 Hachage de mots de passe avec **bcrypt**  
+📦 Encodage **Base64**
 
 
 ### 📈 Référencement SEO
