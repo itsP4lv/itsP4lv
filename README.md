@@ -13,7 +13,7 @@
 
 ## 🧠 À propos de moi
 
-J’apprends en construisant : quand un sujet m’intéresse, je monte un vrai projet pour le comprendre, de l’**agent IA** à l’**outil de pentest sur ESP32**.  
+J’apprends en construisant : quand un sujet m’intéresse, je monte un vrai projet pour le comprendre, de l’**agent IA** à l’**outil de pentest**.  
 J’aime comprendre comment les systèmes fonctionnent, et comment on les sécurise.
 
 - 🔍 Curieux et autodidacte  
