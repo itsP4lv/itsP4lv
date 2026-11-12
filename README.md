@@ -35,21 +35,17 @@ Je m’intéresse autant à l’architecture propre qu’aux détails qui font l
 
 <br/>
 
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="54"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="54" alt="Python"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/typescript/3178C6" width="54"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/python/3776AB" width="54"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/lua/2C2D72" width="54"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="54"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="54" alt="HTML"/>
 
 
-### ⚙️ Frameworks & Outils
+### 🤖 IA & Outils
 
-<img src="https://cdn.simpleicons.org/discord/5865F2" width="54"/>
+<br/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="54"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge" alt="Codex"/>
 
 </div>
