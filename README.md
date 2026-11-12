@@ -1,8 +1,8 @@
 # ⚡ P4lv
 
-💡 Développeur passionné, curieux et polyvalent  
-🚀 J’aime créer des projets utiles, propres et performants  
-🎯 Toujours en train d’apprendre et d’optimiser  
+🤖 Je construis des **agents IA** et des automatisations qui servent vraiment : devis, factures, SEO  
+🛡️ Je me forme à la **cybersécurité**, en grande partie par moi-même  
+🎯 Objectif : **École 42** ou école d’ingénieur  
 
 ![Vues](https://img.shields.io/badge/👁️%20Vues-5243-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![Favoris](https://img.shields.io/badge/⭐%20Favoris-128-0d1117?style=for-the-badge&logo=github&logoColor=white)
