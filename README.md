@@ -44,6 +44,7 @@ J’aime comprendre comment les systèmes fonctionnent, et comment on les sécur
 
 | Projet | Description |
 | :-- | :-- |
+| 📬 **Hydrogen-Mail** | Messagerie e-mail chiffrée hébergée sur un VPS — Postfix, Dovecot, DKIM (projet de lycée) |
 | 📡 **ESP32 Marauder** | Réalisation d’un outil de test Wi-Fi et Bluetooth sur ESP32 |
 | 📈 **SEO d’une boutique en ligne** | Google Search Console, meta descriptions, cannibalisation de mots-clés |
 | 🤖 **Agents IA** | Agents et workflows LLM avec Claude et Codex |
