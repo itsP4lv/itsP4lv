@@ -64,6 +64,7 @@ J’aime comprendre comment les systèmes fonctionnent, et comment on les sécur
 | 📡 **ESP32 Marauder** | Réalisation d’un outil de test Wi-Fi et Bluetooth sur ESP32 |
 | 📈 **SEO d’une boutique en ligne** | Google Search Console, meta descriptions, cannibalisation de mots-clés |
 | 🤖 **Agents IA** | Agents et workflows LLM avec Claude et Codex |
+| 🦙 **IA locale** | LLM exécuté en local avec **Ollama** et **Llama 3.1** : aucune donnée envoyée dans le cloud |
 | 🔔 **Rappel de factures automatique** | ✅ Terminé |
 | 🧾 **Générateur de devis automatique** | 🚧 En cours |
 
@@ -85,10 +86,12 @@ J’aime comprendre comment les systèmes fonctionnent, et comment on les sécur
     <td>
       <img src="https://img.shields.io/badge/Claude-1a1b27?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude"/>
       <img src="https://img.shields.io/badge/Codex-1a1b27?style=for-the-badge" alt="Codex"/>
+      <img src="https://img.shields.io/badge/Ollama-1a1b27?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+      <img src="https://img.shields.io/badge/Llama%203.1-1a1b27?style=for-the-badge&logo=meta&logoColor=0467DF" alt="Llama 3.1"/>
       <img src="https://img.shields.io/badge/n8n-1a1b27?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n"/>
       <img src="https://img.shields.io/badge/Docker-1a1b27?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
       <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=F03C2E" alt="Git"/>
-      <br/><sub>🔗 Création d’agents IA et de workflows LLM</sub>
+      <br/><sub>🔗 Création d’agents IA et de workflows LLM · 🦙 IA locale avec Ollama (Llama 3.1)</sub>
     </td>
   </tr>
   <tr>
