@@ -4,13 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Agents+IA+%26+workflows+LLM;Cybers%C3%A9curit%C3%A9+en+apprentissage;S%C3%A9curit%C3%A9+des+LLM+(OWASP+Top+10);SEO+%26+automatisation;Objectif+%3A+%C3%89cole+42" alt="Agents IA, cybersécurité, SEO et automatisation"/>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=itsP4lv&style=for-the-badge&color=2F81F7&label=VUES%20DU%20PROFIL" alt="Vues du profil"/>
-<a href="https://github.com/itsP4lv?tab=followers"><img src="https://img.shields.io/github/followers/itsP4lv?style=for-the-badge&logo=github&logoColor=white&label=Abonn%C3%A9s&color=1a1b27" alt="Abonnés"/></a>
-<a href="https://tryhackme.com/p/plouviof"><img src="https://img.shields.io/badge/TryHackMe-plouviof-1a1b27?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-<a href="https://discord.gg/p4lv"><img src="https://img.shields.io/badge/Discord-p4lv-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
-
 </div>
 
 <br/>
