@@ -2,21 +2,21 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2F81F7&height=210&section=header&text=P4lv&fontSize=80&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" alt="P4lv"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Agents+IA+%26+workflows+LLM;Cybers%C3%A9curit%C3%A9+en+apprentissage;SEO+%26+automatisation;Objectif+%3A+%C3%89cole+42" alt="Agents IA, cybersécurité, SEO et automatisation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Agents+IA+%26+workflows+LLM;Cybers%C3%A9curit%C3%A9+en+apprentissage;S%C3%A9curit%C3%A9+des+LLM+(OWASP+Top+10);SEO+%26+automatisation;Objectif+%3A+%C3%89cole+42" alt="Agents IA, cybersécurité, SEO et automatisation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/👁️%20Vues-5243-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Vues"/>
-<img src="https://img.shields.io/badge/⭐%20Favoris-128-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Favoris"/>
-<img src="https://img.shields.io/badge/🔥%20Populaire-256-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Populaire"/>
-<img src="https://img.shields.io/badge/📅%20Dernière%20MAJ-13/01/2026-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="Dernière mise à jour"/>
+<img src="https://komarev.com/ghpvc/?username=itsP4lv&style=for-the-badge&color=2F81F7&label=VUES%20DU%20PROFIL" alt="Vues du profil"/>
+<a href="https://github.com/itsP4lv?tab=followers"><img src="https://img.shields.io/github/followers/itsP4lv?style=for-the-badge&logo=github&logoColor=white&label=Abonn%C3%A9s&color=1a1b27" alt="Abonnés"/></a>
+<a href="https://tryhackme.com/p/plouviof"><img src="https://img.shields.io/badge/TryHackMe-plouviof-1a1b27?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+<a href="https://discord.gg/p4lv"><img src="https://img.shields.io/badge/Discord-p4lv-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
 
 </div>
 
 <br/>
 
 > 🤖 Je construis des **agents IA** et des automatisations qui servent vraiment : devis, factures, SEO  
-> 🛡️ Je me forme à la **cybersécurité**, en grande partie par moi-même  
+> 🛡️ Je me forme à la **cybersécurité**, en grande partie par moi-même — en ce moment la **sécurité des LLM**  
 > 🎯 Objectif : **École 42** ou école d’ingénieur
 
 ## 🧠 À propos de moi
@@ -40,7 +40,30 @@ J’aime comprendre comment les systèmes fonctionnent, et comment on les sécur
 - 🏫 Intégrer l’**École 42** ou une **école d’ingénieur**
 - 🔐 Travailler dans la **cybersécurité**, ou dans un domaine qui me passionne
 
-## 🚀 Projets
+## 📌 Projets en vedette
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/itsP4lv/owasp-top-10-llm">🛡️ owasp-top-10-llm</a></h3>
+      Write-ups d’attaques sur des applications LLM (extraction de prompt système, usurpation d’expéditeur…) classés selon l’<b>OWASP Top 10 for LLM 2025</b>.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/OWASP-LLM%20Top%2010-1a1b27?style=flat-square&logo=owasp&logoColor=white" alt="OWASP"/>
+      <img src="https://img.shields.io/badge/Prompt%20Injection-1a1b27?style=flat-square" alt="Prompt Injection"/>
+      <img src="https://img.shields.io/badge/Red%20Team-1a1b27?style=flat-square" alt="Red Team"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/itsP4lv/redpoints">🔴 REDPOINT</a></h3>
+      Multi-tool cyber en ligne de commande : scan de ports, audit d’en-têtes HTTP, détection de secrets, coffre de mots de passe chiffré… Disponible en <code>.exe</code>.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB" alt="Python"/>
+      <img src="https://img.shields.io/badge/CLI-1a1b27?style=flat-square" alt="CLI"/>
+      <img src="https://img.shields.io/badge/Claude%20Code-1a1b27?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code"/>
+    </td>
+  </tr>
+</table>
+
+## 🚀 Autres projets
 
 | Projet | Description |
 | :-- | :-- |
@@ -105,6 +128,15 @@ J’aime comprendre comment les systèmes fonctionnent, et comment on les sécur
     </td>
   </tr>
   <tr>
+    <td align="right"><b>🧠&nbsp;Sécurité&nbsp;IA</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OWASP%20LLM%20Top%2010-1a1b27?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP LLM Top 10"/>
+      <img src="https://img.shields.io/badge/Prompt%20Injection-1a1b27?style=for-the-badge" alt="Prompt Injection"/>
+      <img src="https://img.shields.io/badge/Gandalf%20(Lakera)-1a1b27?style=for-the-badge" alt="Gandalf Lakera"/>
+      <br/><sub>🎯 Extraction de prompt système, excessive agency — <a href="https://github.com/itsP4lv/owasp-top-10-llm">voir mes write-ups</a></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="right"><b>🚩&nbsp;Profils</b></td>
     <td>
       <a href="https://tryhackme.com/p/plouviof"><img src="https://img.shields.io/badge/TryHackMe-plouviof-1a1b27?style=for-the-badge&logo=tryhackme&logoColor=white" alt="Profil TryHackMe"/></a>
@@ -133,5 +165,13 @@ J’aime comprendre comment les systèmes fonctionnent, et comment on les sécur
 </table>
 
 💬 Bonne expérience dans le développement et la gestion de **bots Discord** et de **serveurs**
+
+## 📫 Me contacter
+
+<p>
+  <a href="https://discord.gg/p4lv"><img src="https://img.shields.io/badge/Discord-p4lv-1a1b27?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/></a>
+  <a href="https://tryhackme.com/p/plouviof"><img src="https://img.shields.io/badge/TryHackMe-plouviof-1a1b27?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+  <a href="https://www.root-me.org/plouvi-985094?lang=fr"><img src="https://img.shields.io/badge/Root--Me-plouvi-1a1b27?style=for-the-badge&logo=rootme&logoColor=white" alt="Root-Me"/></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2F81F7&height=110&section=footer" width="100%" alt=""/>
